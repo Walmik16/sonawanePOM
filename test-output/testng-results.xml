@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[https://opensource-demo.orangehrmlive.com/]]>
+    </line>
+    <line>
+      <![CDATA[OrangeHRM]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-05-12T10:10:35 IST" name="Default suite" finished-at="2022-05-12T10:10:56 IST" duration-ms="20706">
+    <groups>
+    </groups>
+    <test started-at="2022-05-12T10:10:35 IST" name="Default test" finished-at="2022-05-12T10:10:56 IST" duration-ms="20706">
+      <class name="testjava.LoginPageTest">
+        <test-method is-config="true" signature="WebBrowserLaunching()[pri:0, instance:testjava.LoginPageTest@434a63ab]" started-at="2022-05-12T10:10:36 IST" name="WebBrowserLaunching" finished-at="2022-05-12T10:10:49 IST" duration-ms="13351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebBrowserLaunching -->
+        <test-method is-config="true" signature="allPageObjects()[pri:0, instance:testjava.LoginPageTest@434a63ab]" started-at="2022-05-12T10:10:49 IST" name="allPageObjects" finished-at="2022-05-12T10:10:49 IST" duration-ms="271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObjects -->
+        <test-method signature="verifyUrlOfLoginPage()[pri:0, instance:testjava.LoginPageTest@434a63ab]" started-at="2022-05-12T10:10:49 IST" name="verifyUrlOfLoginPage" finished-at="2022-05-12T10:10:49 IST" duration-ms="77" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[https://opensource-demo.orangehrmlive.com/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUrlOfLoginPage -->
+        <test-method is-config="true" signature="allPageObjects()[pri:0, instance:testjava.LoginPageTest@434a63ab]" started-at="2022-05-12T10:10:49 IST" name="allPageObjects" finished-at="2022-05-12T10:10:49 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObjects -->
+        <test-method signature="verifyTitleOfLoginPage()[pri:1, instance:testjava.LoginPageTest@434a63ab]" started-at="2022-05-12T10:10:49 IST" name="verifyTitleOfLoginPage" finished-at="2022-05-12T10:10:49 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[OrangeHRM]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTitleOfLoginPage -->
+        <test-method is-config="true" signature="allPageObjects()[pri:0, instance:testjava.LoginPageTest@434a63ab]" started-at="2022-05-12T10:10:49 IST" name="allPageObjects" finished-at="2022-05-12T10:10:49 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allPageObjects -->
+        <test-method signature="verifyLoginPageWithCorrectCredentials()[pri:2, instance:testjava.LoginPageTest@434a63ab]" started-at="2022-05-12T10:10:49 IST" name="verifyLoginPageWithCorrectCredentials" finished-at="2022-05-12T10:10:55 IST" duration-ms="6013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageWithCorrectCredentials -->
+        <test-method is-config="true" signature="tearDownBrowser()[pri:0, instance:testjava.LoginPageTest@434a63ab]" started-at="2022-05-12T10:10:55 IST" name="tearDownBrowser" finished-at="2022-05-12T10:10:56 IST" duration-ms="816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownBrowser -->
+      </class> <!-- testjava.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
